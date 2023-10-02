@@ -55,4 +55,4 @@ document.querySelector(".btn").addEventListener("click", (e)=>{
         alert("password stores in local");
     }
     showPasswords();
-})
+})  
